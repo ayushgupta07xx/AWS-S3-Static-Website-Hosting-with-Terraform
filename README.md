@@ -123,7 +123,7 @@ terraform destroy
 
 ## 👤 Author
 
-**Umar Khan** - VIT-Vellore
+**Ayush Gupta** - VIT-Vellore
 
 ## 📄 License
 
